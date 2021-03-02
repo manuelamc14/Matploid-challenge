@@ -25,6 +25,6 @@ Since the study's purpose was to focus on Capomulin performance, the information
 
 A correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regime was calculated, reflecting the relationship between these two variables to finalize the analysis and proceed with the conclusions (included at the top of the report). 
 
-![ScreenShot](https://github.com/manuelamc14/Pharmaceutical-data-analysis/blob/master/Pymaceuticals/images/tumor_volumen_by_drug.png)
+![ScreenShot](https://github.com/manuelamc14/Pharmaceutical-data-analysis/blob/master/Pymaceuticals/images/linear_regression.png)
 
 
