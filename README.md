@@ -2,7 +2,11 @@
 
 ## Dependencies
 
-![ScreenShot](https://github.com/manuelamc14/Pharmaceutical-data-analysis/blob/master/Pymaceuticals/images/dependencies.png)
+* Matplotlib
+* Pandas
+* Scipy.stats
+* Numpy
+
 ## Description
 
 This project aims to analyze the data of a laboratory that specializes in anti-cancer pharmaceuticals. The data is the result of an animal study made to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other seven treatment regimens for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. 
